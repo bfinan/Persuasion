@@ -1,2 +1,3 @@
-# persuasion
-the card game Persuasion
+# Persuasion
+
+Persuasion, a new hidden role card game
