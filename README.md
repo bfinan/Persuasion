@@ -1,5 +1,5 @@
-# Persuasion
+# PERSUASION!
 
-*Persuasion* is a new hidden information party game. Persuasion will hack a party to shreds and rearrange the shreds into a new mosaic.
+*PERSUASION!* is a new hidden information party game. Persuasion will hack a party to shreds and rearrange the shreds into a new mosaic.
 
-Read The Rules and start playing
+Read The Rules and start playing!
