@@ -9,6 +9,7 @@ The goal of the game is to have the last remaining secret intact card. The winne
 1. How To Win
 
 2. How To Get People Out
+
   2a. Official Accusations
 
 3. Socially Enforced Rules
